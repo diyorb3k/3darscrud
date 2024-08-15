@@ -1,0 +1,60 @@
+{
+  "User": [
+    {
+      "id": "12",
+      "ismi": "Asilbekkk",
+      "familyasi": "Yuldashev",
+      "telefon_raqami": "+998927345678",
+      "lavozimi": "Texnik Yordamchig"
+    },
+    {
+      "id": "14",
+      "ismi": "Farhod",
+      "familyasi": "Otabekov",
+      "telefon_raqami": "+998947567890",
+      "lavozimi": "Marketing Menejeri"
+    },
+    {
+      "id": "15",
+      "ismi": "Aziza",
+      "familyasi": "Usmonova",
+      "telefon_raqami": "+998957678901",
+      "lavozimi": "SMM Mutaxassisi"
+    },
+    {
+      "id": "16",
+      "ismi": "Odil",
+      "familyasi": "Mahmudov",
+      "telefon_raqami": "+998967789012",
+      "lavozimi": "Dizayn Boshlig'i"
+    },
+    {
+      "id": "17",
+      "ismi": "Madina",
+      "familyasi": "Xolmurodova",
+      "telefon_raqami": "+99897789012389",
+      "lavozimi": "Ofis Menedjeri"
+    },
+    {
+      "id": "18",
+      "ismi": "Bobur",
+      "familyasi": "Saydullayev",
+      "telefon_raqami": "+998987901234",
+      "lavozimi": "Muhandis"
+    },
+    {
+      "id": "19",
+      "ismi": "Shahlo",
+      "familyasi": "Muminova",
+      "telefon_raqami": "+998997012345",
+      "lavozimi": "Moliyaviy maslahatchi"
+    },
+    {
+      "id": "20",
+      "ismi": "Shahlo",
+      "familyasi": "Muminova",
+      "telefon_raqami": "+998997012345",
+      "lavozimi": "Moliyaviy maslahatchi"
+    }
+  ]
+}
