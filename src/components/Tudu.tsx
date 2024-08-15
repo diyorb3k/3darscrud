@@ -2,7 +2,6 @@ import axios from "axios";
 import React, { useEffect, useState } from "react";
 import './css/Tudu.css'
 
-// Foydalanuvchilar interfeysi
 interface User {
   id: number;
   ismi: string;

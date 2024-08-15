@@ -64,10 +64,8 @@ cursor: pointer;
   color: #fff;
 }
 .input_had {
-  /* padding: 13px; */
   margin-bottom: 10px;
 }
-/* From Uiverse.io by alexruix */
 .group {
   display: flex;
   line-height: 28px;
@@ -127,7 +125,6 @@ input:hover {
   cursor: pointer;
 }
 /* mmmmmm */
-/* Tudu.css */
 .modal {
     position: fixed;
     top: 0;
